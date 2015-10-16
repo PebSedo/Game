@@ -4,6 +4,7 @@
 #include <iostream>
 #include <string>
 
+
 //Constructor, just initializes private member variables
 MainGame::MainGame() : 
 	_window(nullptr), 
